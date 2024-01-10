@@ -1,0 +1,29 @@
+{
+	"name": "astro-https",
+	"private": true,
+	"version": "0.0.1",
+	"type": "module",
+	"exports": {
+		".": "./index.ts"
+	},
+	"files": [
+		"src",
+		"index.ts"
+	],
+	"keywords": [
+		"withastro"
+	],
+	"scripts": {},
+	"devDependencies": {
+		"@types/node": "^20.10.4",
+		"astro": "^4.1.1",
+		"vite-plugin-mkcert": "^1.17.2"
+	},
+	"peerDependencies": {
+		"astro": "^4.0.0"
+	},
+	"dependencies": {
+		"@astrojs/check": "^0.4.1",
+		"typescript": "^5.3.3"
+	}
+}
