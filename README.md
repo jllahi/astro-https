@@ -1,6 +1,6 @@
 # Astro HTTPS: Integration Package
 
-This is an Astro integration to provide certificate support (HTTPS) using mkcert.
+This is an Astro integration to provide certificate support (HTTPS) using [mkcert](https://www.npmjs.com/package/vite-plugin-mkcert).
 
 ## Install from Github
 
