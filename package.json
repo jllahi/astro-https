@@ -15,15 +15,15 @@
 	],
 	"scripts": {},
 	"devDependencies": {
+		"@astrojs/check": "^0.4.1",
 		"@types/node": "^20.10.4",
 		"astro": "^4.1.1",
-		"vite-plugin-mkcert": "^1.17.2"
+		"typescript": "^5.3.3"
 	},
 	"peerDependencies": {
 		"astro": "^4.0.0"
 	},
 	"dependencies": {
-		"@astrojs/check": "^0.4.1",
-		"typescript": "^5.3.3"
+		"vite-plugin-mkcert": "^1.17.2"
 	}
 }
